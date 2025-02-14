@@ -8,7 +8,7 @@ export default {
     plugins: [react(), topLevelAwait()],
     root: "src",
     publicDir: "public",
-    base: "/2024/",
+    base: "/2025/",
     // base: "/",
     server: {
         host: true,
